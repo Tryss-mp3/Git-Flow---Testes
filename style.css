@@ -1,0 +1,36 @@
+body {
+    font-family: fantasy;
+    background-color: violet;
+    color: greenyellow;
+    text-align: center;
+}
+
+form {
+    margin: 20px auto;
+    padding: 20px;
+    width: 300px;
+    background: rgb(221, 113, 223);
+    border-radius: 10px;
+}
+
+input {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    padding: 10px;
+    width: 100%;
+    background: rgb(165, 255, 101);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(135, 210, 82);;
+}
